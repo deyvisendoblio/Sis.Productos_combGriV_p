@@ -1,0 +1,42 @@
+D:\GINA\Avansys 2016\SESION01-02\Sis.Productos_Web\Productos.Libreria.Negocios\bin\Debug\Productos.Libreria.Negocios.dll
+D:\GINA\Avansys 2016\SESION01-02\Sis.Productos_Web\Productos.Libreria.Negocios\bin\Debug\Productos.Libreria.Negocios.pdb
+D:\GINA\Avansys 2016\SESION01-02\Sis.Productos_Web\Productos.Libreria.Negocios\bin\Debug\Productos.Libreria.Datos.dll
+D:\GINA\Avansys 2016\SESION01-02\Sis.Productos_Web\Productos.Libreria.Negocios\bin\Debug\Productos.Libreria.Datos.pdb
+D:\GINA\Avansys 2016\SESION01-02\Sis.Productos_Web\Productos.Libreria.Negocios\obj\Debug\ResolveAssemblyReference.cache
+D:\GINA\Avansys 2016\SESION01-02\Sis.Productos_Web\Productos.Libreria.Negocios\obj\Debug\Productos.Libreria.Negocios.dll
+D:\GINA\Avansys 2016\SESION01-02\Sis.Productos_Web\Productos.Libreria.Negocios\obj\Debug\Productos.Libreria.Negocios.pdb
+D:\GINA\Avansys 2016\CLASES\SESION-02\PRACTICA\3Sis.Productos_Web\Productos.Libreria.Negocios\bin\Debug\Productos.Libreria.Negocios.dll
+D:\GINA\Avansys 2016\CLASES\SESION-02\PRACTICA\3Sis.Productos_Web\Productos.Libreria.Negocios\bin\Debug\Productos.Libreria.Negocios.pdb
+D:\GINA\Avansys 2016\CLASES\SESION-02\PRACTICA\3Sis.Productos_Web\Productos.Libreria.Negocios\bin\Debug\Productos.Libreria.Datos.dll
+D:\GINA\Avansys 2016\CLASES\SESION-02\PRACTICA\3Sis.Productos_Web\Productos.Libreria.Negocios\bin\Debug\Productos.Libreria.Datos.pdb
+D:\GINA\Avansys 2016\CLASES\SESION-02\PRACTICA\3Sis.Productos_Web\Productos.Libreria.Negocios\obj\Debug\ResolveAssemblyReference.cache
+D:\GINA\Avansys 2016\CLASES\SESION-02\PRACTICA\3Sis.Productos_Web\Productos.Libreria.Negocios\obj\Debug\Productos.Libreria.Negocios.dll
+D:\GINA\Avansys 2016\CLASES\SESION-02\PRACTICA\3Sis.Productos_Web\Productos.Libreria.Negocios\obj\Debug\Productos.Libreria.Negocios.pdb
+\\ws-230-204-15\Carpeta Compartida\3Sis.Productos_Web\Productos.Libreria.Negocios\bin\Debug\Productos.Libreria.Negocios.dll
+\\ws-230-204-15\Carpeta Compartida\3Sis.Productos_Web\Productos.Libreria.Negocios\bin\Debug\Productos.Libreria.Negocios.pdb
+\\ws-230-204-15\Carpeta Compartida\3Sis.Productos_Web\Productos.Libreria.Negocios\bin\Debug\Productos.Libreria.Datos.dll
+\\ws-230-204-15\Carpeta Compartida\3Sis.Productos_Web\Productos.Libreria.Negocios\bin\Debug\Productos.Libreria.Datos.pdb
+\\ws-230-204-15\Carpeta Compartida\3Sis.Productos_Web\Productos.Libreria.Negocios\obj\Debug\Productos.Libreria.Negocios.csprojResolveAssemblyReference.cache
+\\ws-230-204-15\Carpeta Compartida\3Sis.Productos_Web\Productos.Libreria.Negocios\obj\Debug\Productos.Libreria.Negocios.dll
+\\ws-230-204-15\Carpeta Compartida\3Sis.Productos_Web\Productos.Libreria.Negocios\obj\Debug\Productos.Libreria.Negocios.pdb
+D:\Usuarios\alex\Desktop\OneDrive\1.1y2.1todoASP\2.2._tareaCrud\3Sis.Productos_Web_prof\Productos.Libreria.Negocios\bin\Debug\Productos.Libreria.Negocios.dll
+D:\Usuarios\alex\Desktop\OneDrive\1.1y2.1todoASP\2.2._tareaCrud\3Sis.Productos_Web_prof\Productos.Libreria.Negocios\bin\Debug\Productos.Libreria.Negocios.pdb
+D:\Usuarios\alex\Desktop\OneDrive\1.1y2.1todoASP\2.2._tareaCrud\3Sis.Productos_Web_prof\Productos.Libreria.Negocios\bin\Debug\Productos.Libreria.Datos.dll
+D:\Usuarios\alex\Desktop\OneDrive\1.1y2.1todoASP\2.2._tareaCrud\3Sis.Productos_Web_prof\Productos.Libreria.Negocios\bin\Debug\Productos.Libreria.Datos.pdb
+D:\Usuarios\alex\Desktop\OneDrive\1.1y2.1todoASP\2.2._tareaCrud\3Sis.Productos_Web_prof\Productos.Libreria.Negocios\obj\Debug\Productos.Libreria.Negocios.csprojResolveAssemblyReference.cache
+D:\Usuarios\alex\Desktop\OneDrive\1.1y2.1todoASP\2.2._tareaCrud\3Sis.Productos_Web_prof\Productos.Libreria.Negocios\obj\Debug\Productos.Libreria.Negocios.dll
+D:\Usuarios\alex\Desktop\OneDrive\1.1y2.1todoASP\2.2._tareaCrud\3Sis.Productos_Web_prof\Productos.Libreria.Negocios\obj\Debug\Productos.Libreria.Negocios.pdb
+D:\Usuarios\alex\Desktop\OneDrive\1.1y2.1todoASP\2_combGridActulizar_pScripts\2_3Sis.Productos_combGriV_p\Productos.Libreria.Negocios\bin\Debug\Productos.Libreria.Negocios.dll
+D:\Usuarios\alex\Desktop\OneDrive\1.1y2.1todoASP\2_combGridActulizar_pScripts\2_3Sis.Productos_combGriV_p\Productos.Libreria.Negocios\bin\Debug\Productos.Libreria.Negocios.pdb
+D:\Usuarios\alex\Desktop\OneDrive\1.1y2.1todoASP\2_combGridActulizar_pScripts\2_3Sis.Productos_combGriV_p\Productos.Libreria.Negocios\bin\Debug\Productos.Libreria.Datos.dll
+D:\Usuarios\alex\Desktop\OneDrive\1.1y2.1todoASP\2_combGridActulizar_pScripts\2_3Sis.Productos_combGriV_p\Productos.Libreria.Negocios\bin\Debug\Productos.Libreria.Datos.pdb
+D:\Usuarios\alex\Desktop\OneDrive\1.1y2.1todoASP\2_combGridActulizar_pScripts\2_3Sis.Productos_combGriV_p\Productos.Libreria.Negocios\obj\Debug\Productos.Libreria.Negocios.csprojResolveAssemblyReference.cache
+D:\Usuarios\alex\Desktop\OneDrive\1.1y2.1todoASP\2_combGridActulizar_pScripts\2_3Sis.Productos_combGriV_p\Productos.Libreria.Negocios\obj\Debug\Productos.Libreria.Negocios.dll
+D:\Usuarios\alex\Desktop\OneDrive\1.1y2.1todoASP\2_combGridActulizar_pScripts\2_3Sis.Productos_combGriV_p\Productos.Libreria.Negocios\obj\Debug\Productos.Libreria.Negocios.pdb
+D:\Usuarios\alex\Desktop\c11ASP\2i_comb_slcGrid_txtActulizarSlc_pScripts\Sis.Productos_combGriV_p\Productos.Libreria.Negocios\bin\Debug\Productos.Libreria.Negocios.dll
+D:\Usuarios\alex\Desktop\c11ASP\2i_comb_slcGrid_txtActulizarSlc_pScripts\Sis.Productos_combGriV_p\Productos.Libreria.Negocios\bin\Debug\Productos.Libreria.Negocios.pdb
+D:\Usuarios\alex\Desktop\c11ASP\2i_comb_slcGrid_txtActulizarSlc_pScripts\Sis.Productos_combGriV_p\Productos.Libreria.Negocios\bin\Debug\Productos.Libreria.Datos.dll
+D:\Usuarios\alex\Desktop\c11ASP\2i_comb_slcGrid_txtActulizarSlc_pScripts\Sis.Productos_combGriV_p\Productos.Libreria.Negocios\bin\Debug\Productos.Libreria.Datos.pdb
+D:\Usuarios\alex\Desktop\c11ASP\2i_comb_slcGrid_txtActulizarSlc_pScripts\Sis.Productos_combGriV_p\Productos.Libreria.Negocios\obj\Debug\Productos.Libreria.Negocios.csprojResolveAssemblyReference.cache
+D:\Usuarios\alex\Desktop\c11ASP\2i_comb_slcGrid_txtActulizarSlc_pScripts\Sis.Productos_combGriV_p\Productos.Libreria.Negocios\obj\Debug\Productos.Libreria.Negocios.dll
+D:\Usuarios\alex\Desktop\c11ASP\2i_comb_slcGrid_txtActulizarSlc_pScripts\Sis.Productos_combGriV_p\Productos.Libreria.Negocios\obj\Debug\Productos.Libreria.Negocios.pdb
